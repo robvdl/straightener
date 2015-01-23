@@ -7,3 +7,13 @@ dist
 *.egg-info
 *.pyc
 __pycache__
+
+# Debian packaging
+*.log
+*.deb
+*.changes
+*.debhelper
+*.substvars
+debian/files
+debian/python-linedetect
+

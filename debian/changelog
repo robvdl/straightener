@@ -1,0 +1,5 @@
+linedetect (1.0) unstable; urgency=low
+
+  * Initial build for Trusty
+
+ -- Rob van der Linde <rob@catalyst.net.nz>  Thu, 22 Jan 2015 10:33:00 +1200
