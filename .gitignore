@@ -1,0 +1,9 @@
+# IDE related
+.idea
+
+# Python related
+build
+dist
+*.egg-info
+*.pyc
+__pycache__

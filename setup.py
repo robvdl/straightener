@@ -1,4 +1,4 @@
-from distutils.core import *
+from setuptools import setup, Extension
 import numpy as np
 
 setup(name='lineDetect',
