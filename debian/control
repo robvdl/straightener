@@ -11,3 +11,4 @@ Architecture: all
 Depends: ${python:Depends}, ${misc:Depends}
 Provides: ${python:Provides}
 Description: OpenCount straightener library
+ Used for straightening ballots images in OpenCount
